@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0723ff09.chunk.css",
-    "main.js": "/portfolio/static/js/main.bb6e17c9.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.bb6e17c9.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.9963cb7c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9963cb7c.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
     "static/js/2.9f732236.chunk.js": "/portfolio/static/js/2.9f732236.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/AlGrade.0f2b60fb.png": "/portfolio/static/media/AlGrade.0f2b60fb.png",
     "static/media/Cotton.bb4b8649.png": "/portfolio/static/media/Cotton.bb4b8649.png",
     "static/media/EUflag.18a6239e.png": "/portfolio/static/media/EUflag.18a6239e.png",
-    "static/media/IvanMilosavljevicCV.24179309.pdf": "/portfolio/static/media/IvanMilosavljevicCV.24179309.pdf",
+    "static/media/IvanMilosavljevic CV.0ce53969.pdf": "/portfolio/static/media/IvanMilosavljevic CV.0ce53969.pdf",
     "static/media/imageAvatar.e70cae1a.svg": "/portfolio/static/media/imageAvatar.e70cae1a.svg",
     "static/media/rocket.652f49f5.svg": "/portfolio/static/media/rocket.652f49f5.svg"
   },
@@ -21,6 +21,6 @@
     "static/js/runtime-main.a9f76519.js",
     "static/js/2.9f732236.chunk.js",
     "static/css/main.0723ff09.chunk.css",
-    "static/js/main.bb6e17c9.chunk.js"
+    "static/js/main.9963cb7c.chunk.js"
   ]
 }
